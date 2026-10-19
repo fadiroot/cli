@@ -7,7 +7,6 @@
 .DS_Store
 Thumbs.db
 .editorconfig
-temp_auto_push.bat
 /build/
 cli/winresources/rsrc_*.syso
 /man/man1/
@@ -17,4 +16,3 @@ cli/winresources/rsrc_*.syso
 coverage.txt
 profile.out
 /vndr.log
-branch_structure.json
