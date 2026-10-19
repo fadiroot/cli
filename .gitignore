@@ -7,7 +7,6 @@
 .DS_Store
 Thumbs.db
 .editorconfig
-temp_auto_push.bat
 /build/
 cli/winresources/rsrc_386.syso
 cli/winresources/rsrc_amd64.syso
@@ -17,4 +16,3 @@ cli/winresources/rsrc_amd64.syso
 /docs/yaml/gen/
 coverage.txt
 profile.out
-branch_structure.json
