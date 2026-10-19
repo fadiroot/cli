@@ -6,7 +6,6 @@
 .*.swp
 .DS_Store
 Thumbs.db
-temp_auto_push.bat
 .editorconfig
 /build/
 /cli/winresources/versioninfo.json
@@ -16,4 +15,3 @@ profile.out
 # top-level go.mod is not meant to be checked in
 /go.mod
 /go.sum
-branch_structure.json
